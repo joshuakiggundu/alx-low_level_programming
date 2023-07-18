@@ -8,12 +8,19 @@
  */
 int main(void)
 {
-	char i = 65;
+	char i = 97;
 
 	while (i <= 122)
 	{
 	putchar(i);
 	i++;
+	}
+	char b = 65;
+
+	while (b <= 90)
+	{
+		putchar(b);
+		b++;
 	}
 	putchar('\n');
 	return (0);
