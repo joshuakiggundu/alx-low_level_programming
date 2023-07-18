@@ -12,7 +12,7 @@ int main(void)
 
 	while (lower <= 122)
 	{
-	if (lower != 101 && 113)
+	if (lower != 101 && lower != 113)
 	putchar(lower);
 	lower++;
 	}
