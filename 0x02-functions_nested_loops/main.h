@@ -4,6 +4,6 @@
 
 int _putchar(char c);
 void theboys(void);
-
+void print_alphabet(void);
 
 #endif /* MAIN_H */
