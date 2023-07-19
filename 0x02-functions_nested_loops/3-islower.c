@@ -18,8 +18,8 @@ int _islower(int c)
 	{
 		if (i == c)
 		{
-		return (0);
+		return (1);
 		}
 	}
-	return (1);
+	return (0);
 }
