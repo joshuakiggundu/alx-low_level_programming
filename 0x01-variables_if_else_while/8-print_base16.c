@@ -9,6 +9,7 @@
 int main(void)
 {
 	char i = 48;
+	char b;
 
 	while (i <= 57)
 	{
