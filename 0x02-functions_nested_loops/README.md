@@ -1,1 +1,1 @@
-this file contains nested loops and the like
+this file contains nested loops
